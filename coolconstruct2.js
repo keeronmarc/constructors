@@ -106,6 +106,7 @@ exotic.add(new Animaltraits('Giraffe',5, 1, 'out', false, "herbivore", 50));
 exotic.add(new Animaltraits('Wildebeest',20, 3, 'out', true, "carnivore", 200));
 
 
+//don't need this for now
 // function Environment (season, temp, surface, timeofDay) {
 // 	this.season = season;
 // 	this.temp = temp;
